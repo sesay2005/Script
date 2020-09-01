@@ -1,0 +1,18 @@
+#!/bin/bash
+#Date:04-03-2017
+#Author:Aruna Bakarr Sesay
+
+echo "What is your name?"
+read N
+
+echo "What is your accupation?"
+read A
+
+echo "What is the name of your curren employer?"
+read Y
+
+echo "What is your yearly income?"
+read INCOME
+
+echo "My name is $N ,my accupation is $A. Am currently working for $Y and my yearly come is $INCOME"
+
